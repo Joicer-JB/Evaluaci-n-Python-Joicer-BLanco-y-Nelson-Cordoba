@@ -1,6 +1,10 @@
 # Evalución de Joicer Blanco y Nelson Cordoba
 # Sobre Diccionarios..😎
 
+# Evalución de Joicer Blanco y Nelson Cordoba
+# Sobre Diccionarios..😎
+
+
 # Creamos un diccionario
 futbolistas = {
     "Messi": "Argentina",
@@ -79,6 +83,6 @@ while True:
     else:
         print("Error: Opción no válida")
 
-    # Mostrar la lista de futbolistas 
+    # Mostrar la lista de futbolistas después de cada operación
     for nombre, pais in futbolistas.items():
         print(f"{nombre} -> {pais}")
